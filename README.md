@@ -1,6 +1,6 @@
 # EYFI Campus Ambassador — Reward Ladder Prototype
 
-Interactive reward ladder built for the Polygnan SDE assessment.
+Interactive reward ladder prototype for the EYFI Campus Ambassador program.
 
 ## Files
 - `reward-ladder.html` — the interactive prototype (open directly in any browser, no build step needed)
